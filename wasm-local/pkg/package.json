@@ -1,0 +1,16 @@
+{
+  "name": "wasm-local",
+  "collaborators": [
+    "Julian Rosse <julian@helixbass.net>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_local_bg.wasm",
+    "wasm_local.js",
+    "wasm_local_bg.js",
+    "wasm_local.d.ts"
+  ],
+  "module": "wasm_local.js",
+  "types": "wasm_local.d.ts",
+  "sideEffects": false
+}
